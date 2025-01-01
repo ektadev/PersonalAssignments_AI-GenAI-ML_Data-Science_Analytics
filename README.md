@@ -5,4 +5,4 @@ All attempted personal assignments
 
 2.) Vectorization Generation and Info - Google Cloud - Langchain Vector DB Search Answers.docx
 
-3.) Google Cloud Anthos Usage and Setup Steps
+3.) Google Cloud Anthos Usage and Setup Steps - Google Cloud Anthos
