@@ -7,3 +7,5 @@ All attempted personal assignments
 
 3.) Google Cloud Anthos Usage and Setup Steps - M1_Introduction_Anthos.pdf.en, M2_Anthos_Environments.pdf.en, M3_Fleet_Networking.pdf.en, M4_Manage_Configuration_with_Anthos.pdf.en
 
+4.) Building and Deploying AI Agents (with reasoning) Google Cloud - intro_reasoning_engine-v1.0.0.ipynb
+
