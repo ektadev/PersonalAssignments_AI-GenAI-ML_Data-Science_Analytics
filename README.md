@@ -9,3 +9,5 @@ All attempted personal assignments
 
 4.) Building and Deploying AI Agents (with reasoning) Google Cloud - intro_reasoning_engine-v1.0.0.ipynb
 
+5.) Requirements and Notebook Template for Gemini 2.5 Pro - requirements.txt, notebook_template.ipynb
+
