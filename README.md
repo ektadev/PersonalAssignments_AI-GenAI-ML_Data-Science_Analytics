@@ -11,3 +11,5 @@ All attempted personal assignments
 
 5.) Requirements and Notebook Template for Gemini 2.5 Pro - requirements.txt, notebook_template.ipynb
 
+6.) Visual Inspection with GCP AI - Visual Inspection AI Trial & Error.txt
+
