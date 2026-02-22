@@ -13,3 +13,5 @@ All attempted personal assignments
 
 6.) Visual Inspection with GCP AI - Visual Inspection AI Trial & Error.txt
 
+7.) Deriving Insights from Public Dataset(COVID data) for analysis - Deriving Insights from Covid Data Exp.md
+
